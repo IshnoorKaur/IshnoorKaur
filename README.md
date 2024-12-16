@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishnoorkaur&label=Profile%20views&color=0e75b6&style=flat" alt="ishnoorkaur" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Flutter & Dart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
