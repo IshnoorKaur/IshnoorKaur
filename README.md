@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishnoor Kaur</h1>
-<h3 align="center">Innovating Through Code, Collaboration, and Creativity</h3>
+<h3 align="center">A Passionate Developer Exploring the Intersection of Technology and Creativity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishnoorkaur&label=Profile%20views&color=0e75b6&style=flat" alt="ishnoorkaur" /> </p>
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning **Flutter & Dart** to build cross-platform mobile apps with seamless user experiences.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
