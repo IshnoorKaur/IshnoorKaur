@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ishnoor Kaur</h1>
-<h3 align="center">A Passionate Developer Exploring the Intersection of Technology and Creativity</h3>
+<h3 align="center">Frontend Developer & UI/UX Designer Bringing Ideas to Life Through Code & Creativity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishnoorkaur&label=Profile%20views&color=0e75b6&style=flat" alt="ishnoorkaur" /> </p>
 
-- 🌱 I’m currently learning **Flutter & Dart** to build cross-platform mobile apps with seamless user experiences.
+- 🌱 Currently diving into **Flutter & Dart** to build smooth, cross-platform mobile apps.
+- 💡 Exploring **AI-powered apps**, **Firebase**, and **TensorFlow.js** for real-time features.
+
+<h3 align="left">About Me</h3>
+<p align="left">
+🚀 I'm a developer with a passion for creating interactive and accessible digital experiences. <br>
+🎨 I blend creativity with code to build responsive apps, smart interfaces, and engaging user experiences. <br>
+📱 Currently building Flutter apps and experimenting with real-time gesture recognition.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
